@@ -1,0 +1,1 @@
+vless://telegram-id-ArV2ray@49.13.69.182:443?mode=gun&security=reality&encryption=none&pbk=66Di0utuGQG7sNb5XqXyOn_6R4kmrxd0A9yZni-uBkM&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=7469eeda#V2Ray+%2801%29
